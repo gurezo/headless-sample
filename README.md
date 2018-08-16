@@ -1,7 +1,7 @@
 # headless-sample
 this is angular chrome headless sample
 
-## for referrence 
+## for reference 
 [Angular Testing with Headless Chrome](https://blog.angularindepth.com/angular-testing-with-headless-chrome-d1343b349699)
 
 ## excute sample 
