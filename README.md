@@ -4,6 +4,12 @@ this is angular chrome headless sample
 ## for referrence 
 [Angular Testing with Headless Chrome](https://blog.angularindepth.com/angular-testing-with-headless-chrome-d1343b349699)
 
+## excute sample 
+![npm run e2e](./etc/test-headless.png "npm run test-headless")
+
+
+![npm run e2e](./etc/test-e2e.png "npm run e2e")
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0.
 
